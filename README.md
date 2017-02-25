@@ -1,7 +1,7 @@
 # GDX-QnFSM
 An example of how to use [jQnFSM](https://github.com/rskupnik/jqnfsm) with LibGDX.
 
-It's best to start with the *Test.java* file inside the *core* module.
+It's best to start with the *[Test.java](https://github.com/rskupnik/gdx-qnfsm/blob/master/core/src/com/github/rskupnik/gdxqnfsm/Test.java)* file inside the *core* module.
 
 ## License
 
